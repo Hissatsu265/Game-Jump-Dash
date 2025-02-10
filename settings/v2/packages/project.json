@@ -1,0 +1,22 @@
+{
+  "__version__": "1.0.5",
+  "physics": {
+    "allowSleep": true,
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "BALL"
+      },
+      {
+        "index": 2,
+        "name": "OBSTACLE"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 7,
+      "1": 7,
+      "2": 7
+    }
+  },
+  "custom_joint_texture_layouts": []
+}
