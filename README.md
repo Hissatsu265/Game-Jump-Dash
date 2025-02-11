@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Game Controls](#game-controls)
@@ -13,6 +14,11 @@
 ## Introduction
 Jump Dash is an exciting, fast-paced platformer game built using **Cocos Creator**. The game challenges players to navigate through a series of obstacles by jumping at the right time to avoid falling or crashing. With engaging mechanics and smooth animations, Jump Dash provides a thrilling experience for players of all skill levels.
 
+## Demo
+![Game interface demo image](./1.png)
+![Game interface demo image](./2.png)
+
+[![Demo Video](https://img.youtube.com/vi/aKcbyxHxsH4/0.jpg)](https://www.youtube.com/watch?v=aKcbyxHxsH4)
 ## Features
 - **Endless Runner Gameplay**: The player keeps moving forward and must time their jumps to survive
 - **Obstacle Avoidance**: Dynamic obstacles increase in difficulty as the game progresses
